@@ -19,13 +19,13 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col items-center md:items-start w-full md:w-1/2 my-8">
-          <h1 className="text-center md:text-left mb-4 text-4xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
+          <h1 className="text-black text-center md:text-left mb-4 text-4xl font-extrabold  dark:text-white md:text-5xl lg:text-6xl">
             <span className="text-transparent bg-clip-text bg-gradient-to-r to-[#fd8003] from-[#4a2f15]">
               Rehoboth 24:
             </span>{" "}
             <br /> Beyond Greatness
           </h1>
-          <h1 className="text-center md:text-left tracking-normal mb-4 text-3xl font-extrabold leading-none  text-gray-900 md:text-4xl lg:text-5xl dark:text-white">
+          <h1 className="text-black text-center md:text-left tracking-normal mb-4 text-3xl font-extrabold leading-none   md:text-4xl lg:text-5xl dark:text-white">
             The Next{" "}
             <mark className="px-2 text-white bg-[#fe9d3c] rounded dark:bg-[#fd8003]/90">
               Colourful
