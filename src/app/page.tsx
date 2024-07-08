@@ -26,7 +26,7 @@ export default function Home() {
             <br /> Beyond Greatness
           </h1>
           <h1 className="text-black text-center md:text-left tracking-normal mb-4 text-3xl font-extrabold leading-none   md:text-4xl lg:text-5xl dark:text-white">
-            The Next{" "}
+            The Most{" "}
             <mark className="px-2 text-white bg-[#fe9d3c] rounded dark:bg-[#fd8003]/90">
               Colourful
             </mark>{" "}

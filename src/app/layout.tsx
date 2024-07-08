@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Rehoboth 24 | Beyond Greatness",
   description:
-    "The Next Colourful Thing",
+    "The Most Colourful Thing",
   keywords: "",
 };
 
